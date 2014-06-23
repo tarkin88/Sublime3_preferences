@@ -1,0 +1,20 @@
+{
+    "bold_folder_labels": true,
+    "color_scheme": "Packages/User/Stereokai (SL).tmTheme",
+    "elementary_folder_icons": true,
+    "font_size": 11,
+    "highlight_modified_tabs": true,
+    "ignored_packages": ["Vintage"],
+    "overlay_scroll_bars": "enabled",
+    "save_on_focus_lost": true,
+    "theme": "Elementary Light 3.sublime-theme",
+    "font_options": "subpixel_antialias",
+    "highlight_line": true,
+    "line_padding_bottom": 1,
+    "line_padding_top": 1,
+    "rulers": [
+        80
+    ],
+    "trim_trailing_white_space_on_save": true,
+    "vintage_start_in_command_mode": true
+}

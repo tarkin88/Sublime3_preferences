@@ -1,0 +1,15 @@
+AutoFileName
+BracketHighligh
+CodeFormatter
+Color Highlighter
+Color Scheme by Carlcalderon
+Color Picker
+DocBlockr
+Emmet
+HTML5
+HTMLAttributes
+SFTP
+SideBarEnhabcements
+SublimeLinter
+Theme Elementary
+Trimmer
