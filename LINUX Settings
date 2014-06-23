@@ -1,0 +1,15 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Stereokai (SL).tmTheme",
+	"elementary_folder_icons": true,
+	"font_face": "Raleway  Ultra-Light",
+	"font_size": 11,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"overlay_scroll_bars": "enabled",
+	"save_on_focus_lost": true,
+	"theme": "Elementary Light 3.sublime-theme"
+}
